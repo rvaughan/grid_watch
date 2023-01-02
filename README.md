@@ -1,2 +1,3 @@
-# grid_watch
-Repository for monitoring National Grid feeds
+# Grid Watch
+
+Repository for monitoring National Grid feeds.
