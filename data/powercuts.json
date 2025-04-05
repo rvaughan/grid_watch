@@ -1,1 +1,1 @@
-{"twitterEnabled":false,"updatePeriod":30000,"incidentStatus":404,"alertSummary":[{"displayDate":1724921581191,"id":5,"flagAsNew":false}]}
+{"lastUpdated":"2025-04-05T04:41:00.000+0100","twitterEnabled":false,"incidents":[{"loc":[51.07475,-4.079911],"id":"INCD-53620-l","region":"South West"},{"loc":[52.69505,-2.043503],"id":"INCD-37687-m","region":"West Midlands"}],"updatePeriod":30000,"incidentStatus":200,"alertSummary":[{"displayDate":1724921581191,"id":5,"flagAsNew":false}]}
