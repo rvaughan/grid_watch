@@ -1,1 +1,1 @@
-{"twitterEnabled":false,"updatePeriod":30000,"incidentStatus":404,"alertSummary":[{"displayDate":1724921581191,"id":5,"flagAsNew":false}]}
+{"lastUpdated":"2025-05-10T07:39:00.000+0100","twitterEnabled":false,"incidents":[{"loc":[52.16917,-2.842543],"id":"INCD-39402-m","region":"West Midlands"}],"updatePeriod":30000,"incidentStatus":200,"alertSummary":[{"displayDate":1724921581191,"id":5,"flagAsNew":false}]}
